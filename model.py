@@ -14,7 +14,7 @@ def load_my_model(model_path='model/plant_disease_mobilenetv2.h5'):
     global model
     if model is None:
         model = load_model(model_path)
-        print("✅ Model loaded successfully!")
+        print(" Model loaded successfully!")
     return model
 
 def preprocess_image(img_path):
