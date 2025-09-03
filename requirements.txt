@@ -1,9 +1,6 @@
-fastapi==0.112.0
-uvicorn==0.30.1
+streamlit==1.37.1
 pillow==10.4.0
 numpy==2.0.1
-pydantic==2.8.2
-python-multipart==0.0.9
-streamlit==1.37.1
-requests==2.32.3
-sqlite-utils==3.37
+pandas==2.2.2
+tensorflow==2.12.0
+sqlite-utils==3.37.0
